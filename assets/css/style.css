@@ -1,0 +1,51 @@
+body {
+    background-color:white;
+}
+h3 {
+     color:red;
+}
+.xpt {
+    font-size:64px;
+    text-align: center;
+}
+.click{
+    color: red;
+    background-color: skyblue;
+    font-size: 30px;
+    font-weight: 25px;
+    margin-left: 30px;
+}
+.press{
+    color: black;
+    background-color: peachpuff;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px; 
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 32px;
+    font-weight:32px;
+}
+.touch{
+    color: orange;
+    background-color: pink;
+    font-size: 30px;
+    font-weight: 25px;
+    margin-left: 30px;
+}
+.move{
+    color: blue;
+    background-color: white;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 32px;
+    
+}
+.hello{
+    color: red;
+    background-color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 40px;
+}
